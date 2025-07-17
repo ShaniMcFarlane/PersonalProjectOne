@@ -12,3 +12,4 @@ libraryDependencies ++= Seq(
   "org.scalactic" %% "scalactic" % "3.2.19",
   "org.seleniumhq.selenium" % "selenium-java" % "4.33.0"
 )
+// comment
